@@ -1,0 +1,15 @@
+{
+    "name": "kostush/1",
+    "description": "test_api",
+    "type": "project",
+    "license": "1",
+    "authors": [
+        {
+            "name": "kostush",
+            "email": "kostush@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit":"9.3"
+    }
+}

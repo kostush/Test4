@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":198:{a:2:{s:7:"defects";a:2:{s:28:"RequestTest::test__construct";i:5;s:21:"RouterTest::testParse";i:5;}s:5:"times";a:2:{s:28:"RequestTest::test__construct";d:0.013;s:21:"RouterTest::testParse";d:0.015;}}}
